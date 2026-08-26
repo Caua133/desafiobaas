@@ -1,6 +1,6 @@
 import { where } from "firebase/firestore";
 
-"use client";
+
 
 import {
   collection,
