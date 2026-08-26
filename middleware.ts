@@ -32,7 +32,7 @@ export function middleware(request: NextRequest) {
 
   return NextResponse.next();
 }
-
+// teste do commit do bug 2
 export const config = {
   matcher: [
     "/dashboard/:path*",
