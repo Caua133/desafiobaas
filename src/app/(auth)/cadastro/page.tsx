@@ -13,6 +13,7 @@ import BugBanner from "@/components/BugBanner";
 // Resultado: qualquer senha é aceita — a confirmação nunca funciona.
 // ---------------------------------------------------------------------------
 
+//bom dia
 export default function CadastroPage() {
   const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
