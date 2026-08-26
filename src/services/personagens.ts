@@ -17,7 +17,7 @@ import {
 import { db } from "@/firebase/config";
 import type { Classe, Personagem } from "@/types";
 // bah
-//rapaz
+// tchê
 // ---------------------------------------------------------------------------
 // LISTAR — BUG 04 🐛
 // ---------------------------------------------------------------------------
