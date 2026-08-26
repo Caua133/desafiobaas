@@ -58,7 +58,7 @@ if (!token) {
 ## BUG 03 — Confirmação de Senha Compara com Nome
 **Arquivo:** `src/app/(auth)/cadastro/page.tsx`
 **Linha:** ~30
-
+//oi 
 **Código bugado:**
 ```ts
 if (senha !== nome) {  // ← variável errada!
